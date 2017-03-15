@@ -4,13 +4,15 @@ You can use the [editor on GitHub](https://github.com/Zebi-Eurorack/SQNZ/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Compile & Upload
-# Compile
+## Compile & Upload
+### Compile
 
-
-
-
-# Upload
+```
+git clone https://github.com/Zebi-Eurorack/SQNZ.git
+cd SQNZ 
+make
+```
+### Upload
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
